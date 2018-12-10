@@ -1,0 +1,4 @@
+https://www.wikipedia.org/wiki/Linux
+http://www.tldp.org
+https://www.gnu.org/software/bash/
+
